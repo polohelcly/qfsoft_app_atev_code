@@ -1,0 +1,18 @@
+{
+	"common": {
+		"version": "1.0.0",
+		"db_pool": {
+			"maxActive": 20,
+			"maxIdle": 16,
+			"minIdle": 4,
+			"maxWait": 30000
+		}
+	},
+	"atmp": {
+		"url": "http://local.debug:8082/qfsoft_web_atmp",
+		"node_id": "81364805-718a-11eb-8079-000c2934e302",
+		"user_id": "f71bde18-b783-11eb-bb81-0242ac110003",
+		"user_code": "chenjinjun",
+		"user_pwd": "d29yazgwMTA="
+	}
+}
