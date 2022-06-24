@@ -9,7 +9,7 @@
 		}
 	},
 	"atmp": {
-		"url": "http://local.debug:8082/qfsoft_web_atmp",
+		"url": "http://qfsoft.top:8080/qfsoft_web_atmp",
 		"node_id": "81364805-718a-11eb-8079-000c2934e302",
 		"user_id": "f71bde18-b783-11eb-bb81-0242ac110003",
 		"user_code": "chenjinjun",
